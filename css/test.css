@@ -1,0 +1,30 @@
+* {
+    text-align: center;
+}
+
+
+
+
+h4 {
+
+    font-size:50px;
+
+color: crimson;
+min-height: 10px;
+border: 10px solid yellow;
+border-radius: 50px;
+}
+
+.sekil {
+    font-size: 20px;
+    background-color: rgb(224, 13, 13);
+    color: rgb(17, 168, 75);
+    font-style: italic;
+width: 50%;
+}
+
+a {
+
+    text-decoration: none;
+}
+

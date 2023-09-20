@@ -13,6 +13,7 @@ color: crimson;
 min-height: 10px;
 border: 10px solid yellow;
 border-radius: 50px;
+text-shadow: 10px 10px 10px gray;
 }
 
 .sekil {
@@ -27,4 +28,12 @@ a {
 
     text-decoration: none;
 }
-
+.container div {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin: 15px;
+    }
+    .container{
+        display: flex;
+    }
